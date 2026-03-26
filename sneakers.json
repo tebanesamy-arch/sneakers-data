@@ -1,0 +1,35 @@
+﻿[
+  {
+    "Id": "000000000000000000000001",
+    "Brand": "Nike",
+    "Model": "Air Force 1",
+    "Colorway": "White/White",
+    "Size": "42",
+    "BuyPrice": 90,
+    "SellPrice": 130,
+    "Condition": "New",
+    "Barcode": "194502952612"
+  },
+  {
+    "Id": "000000000000000000000002",
+    "Brand": "Jordan",
+    "Model": "Air Jordan 1 Retro High OG",
+    "Colorway": "Chicago",
+    "Size": "43",
+    "BuyPrice": 180,
+    "SellPrice": 400,
+    "Condition": "New",
+    "Barcode": "194502874242"
+  },
+  {
+    "Id": "000000000000000000000003",
+    "Brand": "Adidas",
+    "Model": "Yeezy Boost 350 V2",
+    "Colorway": "Zebra",
+    "Size": "42",
+    "BuyPrice": 220,
+    "SellPrice": 350,
+    "Condition": "New",
+    "Barcode": "194502123456"
+  }
+]
