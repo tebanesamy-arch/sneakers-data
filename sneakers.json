@@ -1,6 +1,5 @@
-﻿[
+[
   {
-    "Id": "000000000000000000000001",
     "Brand": "Nike",
     "Model": "Air Force 1",
     "Colorway": "White/White",
@@ -8,10 +7,10 @@
     "BuyPrice": 90,
     "SellPrice": 130,
     "Condition": "New",
-    "Barcode": "194502952612"
+    "Barcode": "194502952612",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
   },
   {
-    "Id": "000000000000000000000002",
     "Brand": "Jordan",
     "Model": "Air Jordan 1 Retro High OG",
     "Colorway": "Chicago",
@@ -19,10 +18,10 @@
     "BuyPrice": 180,
     "SellPrice": 400,
     "Condition": "New",
-    "Barcode": "194502874242"
+    "Barcode": "194502874242",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e0cb0bce-a08f-4eb9-9bde-d6f3ef9f90df/air-jordan-1-retro-high-og-shoes-glHjmj.png"
   },
   {
-    "Id": "000000000000000000000003",
     "Brand": "Adidas",
     "Model": "Yeezy Boost 350 V2",
     "Colorway": "Zebra",
@@ -30,6 +29,84 @@
     "BuyPrice": 220,
     "SellPrice": 350,
     "Condition": "New",
-    "Barcode": "194502123456"
+    "Barcode": "194502123456",
+    "ImageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c5d5d1b6b25e4c4e9d99af7800f6b29e_9366/Yeezy_Boost_350_V2_White_CP9366_01_standard.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Model": "Air Max 90",
+    "Colorway": "White/Black",
+    "Size": "41",
+    "BuyPrice": 110,
+    "SellPrice": 160,
+    "Condition": "New",
+    "Barcode": "194502111111",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-665455b5-fa6f-4d69-9adb-73d7a300c5ed/air-max-90-shoes-kRsBnD.png"
+  },
+  {
+    "Brand": "New Balance",
+    "Model": "550",
+    "Colorway": "White/Green",
+    "Size": "42",
+    "BuyPrice": 100,
+    "SellPrice": 180,
+    "Condition": "New",
+    "Barcode": "194502222222",
+    "ImageUrl": "https://nb.scene7.com/is/image/NB/bb550wt1_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=880&hei=880"
+  },
+  {
+    "Brand": "Nike",
+    "Model": "Dunk Low",
+    "Colorway": "Panda",
+    "Size": "43",
+    "BuyPrice": 110,
+    "SellPrice": 200,
+    "Condition": "New",
+    "Barcode": "194502333333",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b1bcbca4-e853-4df7-b329-5be3c61ee057/dunk-low-retro-shoes-76KnBL.png"
+  },
+  {
+    "Brand": "Adidas",
+    "Model": "Samba OG",
+    "Colorway": "White/Black",
+    "Size": "42",
+    "BuyPrice": 100,
+    "SellPrice": 170,
+    "Condition": "New",
+    "Barcode": "194502444444",
+    "ImageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2f89c50d48b34d6e8a3daf7800d3e229_9366/Samba_OG_Shoes_White_B75806_01_standard.jpg"
+  },
+  {
+    "Brand": "Jordan",
+    "Model": "Air Jordan 4 Retro",
+    "Colorway": "Bred Reimagined",
+    "Size": "44",
+    "BuyPrice": 200,
+    "SellPrice": 450,
+    "Condition": "New",
+    "Barcode": "194502555555",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b2a42dae-fa43-4e74-a786-793432b1ebe4/air-jordan-4-retro-shoes-TS41Tc.png"
+  },
+  {
+    "Brand": "New Balance",
+    "Model": "2002R",
+    "Colorway": "Protection Pack",
+    "Size": "41",
+    "BuyPrice": 130,
+    "SellPrice": 220,
+    "Condition": "New",
+    "Barcode": "194502666666",
+    "ImageUrl": "https://nb.scene7.com/is/image/NB/m2002rdk_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=880&hei=880"
+  },
+  {
+    "Brand": "Nike",
+    "Model": "Air Jordan 1 Low",
+    "Colorway": "Shadow",
+    "Size": "42",
+    "BuyPrice": 100,
+    "SellPrice": 160,
+    "Condition": "New",
+    "Barcode": "194502777777",
+    "ImageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3b1a2932-a1fe-4e62-a38a-96e2b0b72fba/air-jordan-1-low-shoes-l4Lnqb.png"
   }
 ]
